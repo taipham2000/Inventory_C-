@@ -5,7 +5,7 @@
  
 
 ### You will find in this repo the following stuff: 
-* This repo has a basic project about WebForm
+* This repo has a basic project about WinForm
 * Techs: SQLServer, Visual studio 2019
 
 
