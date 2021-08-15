@@ -5,7 +5,7 @@
  
 
 ### You will find in this repo the following stuff: 
-* This repo has a basic project about Java-Web
+* This repo has a basic project about WebForm
 * Techs: SQLServer, Visual studio 2019
 
 
