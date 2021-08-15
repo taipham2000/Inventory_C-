@@ -9,11 +9,7 @@
 * Techs: SQLServer, Visual studio 2019
 
 
-### Project functions include:
-* Show main menu page on web
-* User selects Child pages from Master page.
-* User enters his/her information and date
-* Edit and delete data on the web
+
 
 ## Have fun with my code and feel free to give me any comments
 
